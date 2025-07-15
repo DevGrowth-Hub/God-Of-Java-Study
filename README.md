@@ -31,21 +31,45 @@
 ```
 .
 ├── week01
-│   ├── README.md (정리 내용 및 요약)
-│   └── discussions.md (토론 및 Q&A)
+│   ├── jyoo0323
+│   │   ├── chapter01.md
+│   │   ├── chapter02.md
+|   |   └── deep-dive-discussions.md
+│   ├── PSYWORLD92
+│   │   ├── chapter01.md
+│   │   ├── chapter02.md
+|   |   └── deep-dive-discussions.md
+│   ├── swcide
+│   │   ├── chapter01.md
+│   │   ├── chapter02.md
+|   |   └── deep-dive-discussions.md
 ├── week02
-│   ├── README.md
-│   └── discussions.md
+│   ├── jyoo0323
+│   │   ├── chapter03.md
+|   |   └── deep-dive-discussions.md
+│   ├── PSYWORLD92
+│   │   ├── chapter03.md
+|   |   └── deep-dive-discussions.md
+│   ├── swcide
+│   │   ├── chapter03.md
+|   |   └── deep-dive-discussions.md
 └── ...
 ```
 
 ## 📝 참여 방법
 
-- 각 주차별로 정해진 챕터를 읽고, 요약 및 질문사항을 주차별 디렉토리의 README에 추가하여 PR을 생성합니다.
+- 각 주차별로 정해진 챕터를 읽고, 요약 및 질문사항을 본인의 디렉토리에 챕터별 md 파일로 추가하여 PR을 생성합니다.
+- 심화 토론이 필요한 질문은 주차별 `deep-dive-discussions.md` 파일에 정리합니다.
 - 이슈를 통해 자유롭게 질문과 토론을 진행합니다.
 
 ## 🚀 목표
 
 - 자바를 더 깊이 이해하고, 실무에서 효과적으로 활용할 수 있도록 합니다.
 - 서로 피드백을 주고받으며 함께 성장하는 문화를 형성합니다.
+  
+## ✅ 커밋 컨벤션
 
+```
+docs: [week01] chapter01 JVM 내용 정리
+docs: [week02] chapter03 Collection Framework 내용 추가
+```
