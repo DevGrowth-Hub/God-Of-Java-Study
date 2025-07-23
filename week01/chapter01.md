@@ -5,7 +5,9 @@
 - 예) `checkPassword`라는 메서드를 호출하면 결과를 돌려준다.
 
 ```java
-public boolean checkPassword(String password) { }
+public boolean /* (A) 리턴타입 */ checkPassword /* (B) 메서드명 */ (String password) /* (C) 매개변수 */ {
+    // 비밀번호 검사 로직
+}
 ```
 
 <br>
