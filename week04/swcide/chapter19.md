@@ -79,6 +79,7 @@
     - Parallel Old(Old Generation Collector)
     - Concurrent Mark & Sweep Collector(CMS)
 
+---
 
 ## ❓**
 1. 전체 힙을 Young처럼 운영하면 장애가 이어질 확률이 높아지는 이유는?
