@@ -1,4 +1,4 @@
-# 📘 자바의 신 VOL.2 – 30장: Java 7에서 달라진 것들에는?
+# 📘 자바의 신 VOL.2 – 12장: Java 7에서 달라진 것들에는?
 
 ## Java 7에서는…
 - **[JSR 336: Java SE 7 Release Contents](https://jcp.org/aboutJava/communityprocess/final/jsr336/index.html)**에 정리된 언어/라이브러리 개선 다수 도입
